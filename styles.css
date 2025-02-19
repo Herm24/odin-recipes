@@ -1,0 +1,23 @@
+.adjust {
+    text-align: center;
+    font-size: 50px;
+}
+a {
+    font-size: 24px;
+    font-weight: bold;
+}
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.size {
+    font-size: 40px;
+}
+ol li,
+ul li,
+p {
+    font-size: 20px;
+}
